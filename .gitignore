@@ -9,3 +9,5 @@ ex2/*
 *.txt
 *.json
 *.pyc
+*.exe
+*.png
