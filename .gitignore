@@ -1,0 +1,11 @@
+extract/*
+extract*/*
+resized/*
+result/*
+zxb/*
+ex2/*
+*.mp4
+*.lnk
+*.txt
+*.json
+*.pyc
